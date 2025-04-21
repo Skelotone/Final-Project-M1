@@ -1,0 +1,1 @@
+The base code was created while following the "John Lemon's Haunted Jaunt" Unity Learn project, but there has been some modifications by me alone in order to fulfil the requirement in my Computer As A Medium clases final Project. 
